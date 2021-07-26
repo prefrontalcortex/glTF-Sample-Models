@@ -1,0 +1,526 @@
+{
+    "asset": {
+        "copyright": "2021 (c) Adobe Inc.",
+        "generator": "Adobe Substance 3D Stager - 1559bedf0edfe507a7c7a661a410b079a33d30ad",
+        "version": "2.0",
+        "extensions": {
+            "KHR_xmp_json_ld": {
+                "packet": 0
+            }
+        }
+    },
+    "accessors": [
+        {
+            "bufferView": 0,
+            "componentType": 5126,
+            "count": 2399,
+            "type": "VEC3",
+            "max": [
+                0.09999999403953552,
+                0.19999998807907105,
+                0.09999999403953552
+            ],
+            "min": [
+                -0.09999999403953552,
+                0.0,
+                -0.09999999403953552
+            ]
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 2399,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 2399,
+            "type": "VEC4"
+        },
+        {
+            "bufferView": 3,
+            "componentType": 5126,
+            "count": 2399,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 4,
+            "componentType": 5125,
+            "count": 13536,
+            "type": "SCALAR",
+            "max": [
+                2398.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 5,
+            "componentType": 5126,
+            "count": 53114,
+            "type": "VEC3",
+            "max": [
+                0.009999999776482582,
+                0.004472009837627411,
+                0.00705289002507925
+            ],
+            "min": [
+                -0.009999999776482582,
+                -0.004472009837627411,
+                -0.00705289002507925
+            ]
+        },
+        {
+            "bufferView": 6,
+            "componentType": 5126,
+            "count": 53114,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 7,
+            "componentType": 5126,
+            "count": 53114,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 8,
+            "componentType": 5125,
+            "count": 300000,
+            "type": "SCALAR",
+            "max": [
+                53113.0
+            ],
+            "min": [
+                0.0
+            ]
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 28788,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 28788,
+            "byteLength": 28788,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 57576,
+            "byteLength": 38384,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 95960,
+            "byteLength": 19192,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 115152,
+            "byteLength": 54144,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 169296,
+            "byteLength": 637368,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 806664,
+            "byteLength": 637368,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 1444032,
+            "byteLength": 424912,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 1868944,
+            "byteLength": 1200000,
+            "target": 34963
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 3068944,
+            "uri": "OITTesting_binary.bin"
+        }
+    ],
+    "cameras": [
+        {
+            "perspective": {
+                "znear": 0.000018590861145639793,
+                "yfov": 0.527414858341217,
+                "zfar": 2.0,
+                "aspectRatio": 1.3333333730697632
+            },
+            "type": "perspective",
+            "name": "working_cam"
+        }
+    ],
+    "images": [
+        {
+            "name": "texture62",
+            "uri": "OITTesting_images/texture62.png",
+            "mimeType": "image/png"
+        }
+    ],
+    "materials": [
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    1.0,
+                    0.00856812484562397,
+                    0.00856812484562397,
+                    1.0
+                ],
+                "baseColorTexture": {
+                    "index": 0
+                },
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.30000001192092898
+            },
+            "alphaMode": "BLEND",
+            "name": "Default material",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.039546236395835879,
+                    1.0,
+                    0.01032982300966978,
+                    1.0
+                ],
+                "baseColorTexture": {
+                    "index": 0
+                },
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.30000001192092898
+            },
+            "alphaMode": "BLEND",
+            "name": "Default material",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.01032982300966978,
+                    0.02955683320760727,
+                    1.0,
+                    1.0
+                ],
+                "baseColorTexture": {
+                    "index": 0
+                },
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.30000001192092898
+            },
+            "alphaMode": "BLEND",
+            "name": "Default material",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.4735315442085266,
+                    0.017641952261328698,
+                    0.8468732833862305,
+                    0.38999998569488528
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.6000000238418579
+            },
+            "alphaMode": "BLEND",
+            "name": "Default material",
+            "doubleSided": true
+        }
+    ],
+    "meshes": [
+        {
+            "name": "PROCEDURAL_MESHES_SPHERE#",
+            "primitives": [
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 3,
+                        "TANGENT": 2,
+                        "NORMAL": 1,
+                        "POSITION": 0
+                    },
+                    "indices": 4,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "PROCEDURAL_MESHES_SPHERE#",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TANGENT": 2,
+                        "TEXCOORD_0": 3
+                    },
+                    "indices": 4,
+                    "material": 1
+                }
+            ]
+        },
+        {
+            "name": "PROCEDURAL_MESHES_SPHERE#",
+            "primitives": [
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 3,
+                        "TANGENT": 2,
+                        "NORMAL": 1,
+                        "POSITION": 0
+                    },
+                    "indices": 4,
+                    "material": 2
+                }
+            ]
+        },
+        {
+            "name": "PROCEDURAL_MESHES_SPHERE#",
+            "primitives": [
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 3,
+                        "TANGENT": 2,
+                        "NORMAL": 1,
+                        "POSITION": 0
+                    },
+                    "indices": 4,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "PROCEDURAL_MESHES_SPHERE#",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TANGENT": 2,
+                        "TEXCOORD_0": 3
+                    },
+                    "indices": 4,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "PROCEDURAL_MESHES_SPHERE#",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TANGENT": 2,
+                        "TEXCOORD_0": 3
+                    },
+                    "indices": 4,
+                    "material": 1
+                }
+            ]
+        },
+        {
+            "name": "model",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 5,
+                        "NORMAL": 6,
+                        "TEXCOORD_0": 7
+                    },
+                    "indices": 8,
+                    "material": 3
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "translation": [
+                2.3425643146038056,
+                3.192884624004364,
+                14.499212503433228
+            ],
+            "rotation": [
+                -0.08691761642694473,
+                0.09387464076280594,
+                0.008227256126701832,
+                0.991748571395874
+            ],
+            "scale": [
+                10,
+                10,
+                10
+            ],
+            "camera": 0,
+            "name": "working_cam_n3d"
+        },
+        {
+            "children": [
+                2
+            ],
+            "translation": [
+                2.4017368257045747,
+                1.7540206015110017,
+                0.0
+            ],
+            "scale": [
+                10,
+                10,
+                10
+            ],
+            "mesh": 0,
+            "name": "Sphere 3"
+        },
+        {
+            "translation": [
+                -0.07080352306365967,
+                0.09086255729198456,
+                1.838924390540342e-8
+            ],
+            "rotation": [
+                0.46855300664901736,
+                0.5295829176902771,
+                -0.46855297684669497,
+                0.5295829772949219
+            ],
+            "scale": [
+                0.7499997019767761,
+                0.7500006556510925,
+                0.7500002384185791
+            ],
+            "mesh": 1,
+            "name": "Sphere3-Layer2"
+        },
+        {
+            "translation": [
+                2.4017368257045747,
+                2.254020869731903,
+                0.0
+            ],
+            "scale": [
+                5,
+                5,
+                5
+            ],
+            "mesh": 2,
+            "name": "Sphere 4"
+        },
+        {
+            "translation": [
+                -2.4359965324401856,
+                1.7540206015110017,
+                0.0
+            ],
+            "scale": [
+                10,
+                10,
+                10
+            ],
+            "mesh": 3,
+            "name": "Sphere 1"
+        },
+        {
+            "children": [
+                6
+            ],
+            "translation": [
+                0.0,
+                1.7540206015110017,
+                0.0
+            ],
+            "scale": [
+                10,
+                10,
+                10
+            ],
+            "mesh": 4,
+            "name": "Sphere 2"
+        },
+        {
+            "translation": [
+                -0.07571855187416077,
+                0.09086257964372635,
+                1.4664711223133509e-8
+            ],
+            "rotation": [
+                0.46855300664901736,
+                0.5295829176902771,
+                -0.46855297684669497,
+                0.5295829772949219
+            ],
+            "scale": [
+                0.7499999403953552,
+                0.7500006556510925,
+                0.75
+            ],
+            "mesh": 5,
+            "name": "Sphere2-Layer2"
+        },
+        {
+            "translation": [
+                -0.036683727521449329,
+                0.4496242478489876,
+                2.2792591154575349
+            ],
+            "rotation": [
+                -0.7071067690849304,
+                2.5121478909004596e-15,
+                -7.536443460943142e-15,
+                0.7071068286895752
+            ],
+            "scale": [
+                200.0,
+                199.99998092651368,
+                199.99998092651368
+            ],
+            "mesh": 6,
+            "name": "model"
+        }
+    ],
+    "samplers": [
+        {}
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0,
+                1,
+                3,
+                4,
+                5,
+                7
+            ],
+            "name": "scene"
+        }
+    ],
+    "textures": [
+        {
+            "name": "texture62",
+            "sampler": 0,
+            "source": 0
+        }
+    ],
+    "scene": 0
+}
