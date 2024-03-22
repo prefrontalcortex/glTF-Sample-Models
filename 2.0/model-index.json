@@ -10,6 +10,13 @@
     }
   },
   {
+    "name": "ABeautifulGame",
+    "screenshot": "screenshot/screenshot.jpg",
+    "variants": {
+      "glTF": "ABeautifulGame.gltf"
+    }
+  },
+  {
     "name": "AlphaBlendModeTest",
     "screenshot": "screenshot/screenshot.png",
     "variants": {
@@ -170,7 +177,8 @@
       "glTF": "BrainStem.gltf",
       "glTF-Binary": "BrainStem.glb",
       "glTF-Draco": "BrainStem.gltf",
-      "glTF-Embedded": "BrainStem.gltf"
+      "glTF-Embedded": "BrainStem.gltf",
+      "glTF-Meshopt": "BrainStem.gltf"
     }
   },
   {
@@ -189,6 +197,14 @@
     "variants": {
       "glTF": "Cameras.gltf",
       "glTF-Embedded": "Cameras.gltf"
+    }
+  },
+  {
+    "name": "CarbonFibre",
+    "screenshot": "screenshot/screenshot.jpg",
+    "variants": {
+      "glTF": "CarbonFibre.gltf",
+      "glTF-Binary": "CarbonFibre.glb"
     }
   },
   {
@@ -212,11 +228,41 @@
     }
   },
   {
+    "name": "ClearCoatCarPaint",
+    "screenshot": "screenshot/screenshot.jpg",
+    "variants": {
+      "glTF": "ClearCoatCarPaint.gltf",
+      "glTF-Binary": "ClearCoatCarPaint.glb"
+    }
+  },
+  {
     "name": "ClearCoatTest",
     "screenshot": "screenshot/screenshot.jpg",
     "variants": {
       "glTF": "ClearCoatTest.gltf",
       "glTF-Binary": "ClearCoatTest.glb"
+    }
+  },
+  {
+    "name": "ClearcoatRing",
+    "screenshot": "screenshot/screenshot.jpg",
+    "variants": {
+      "glTF": "ClearcoatRing.gltf"
+    }
+  },
+  {
+    "name": "ClearcoatSphere",
+    "screenshot": "screenshot/screenshot.png",
+    "variants": {
+      "glTF": "ClearcoatSphere.gltf"
+    }
+  },
+  {
+    "name": "ClearcoatWicker",
+    "screenshot": "screenshot/screenshot.jpg",
+    "variants": {
+      "glTF": "ClearcoatWicker.gltf",
+      "glTF-Binary": "ClearcoatWicker.glb"
     }
   },
   {
@@ -245,11 +291,20 @@
     }
   },
   {
+    "name": "DirectionalLight",
+    "screenshot": "screenshot/screenshot.png",
+    "variants": {
+      "glTF": "DirectionalLight.gltf",
+      "glTF-Binary": "DirectionalLight.glb"
+    }
+  },
+  {
     "name": "DragonAttenuation",
     "screenshot": "screenshot/screenshot.jpg",
     "variants": {
       "glTF": "DragonAttenuation.gltf",
-      "glTF-Binary": "DragonAttenuation.glb"
+      "glTF-Binary": "DragonAttenuation.glb",
+      "glTF-Meshopt": "DragonAttenuation.gltf"
     }
   },
   {
@@ -283,7 +338,8 @@
     "name": "FlightHelmet",
     "screenshot": "screenshot/screenshot.jpg",
     "variants": {
-      "glTF": "FlightHelmet.gltf"
+      "glTF": "FlightHelmet.gltf",
+      "glTF-KTX-BasisU": "FlightHelmet.gltf"
     }
   },
   {
@@ -328,6 +384,14 @@
     }
   },
   {
+    "name": "IridescenceLamp",
+    "screenshot": "screenshot/screenshot.jpg",
+    "variants": {
+      "glTF": "IridescenceLamp.gltf",
+      "glTF-Binary": "IridescenceLamp.glb"
+    }
+  },
+  {
     "name": "IridescenceMetallicSpheres",
     "screenshot": "screenshot/screenshot.jpg",
     "variants": {
@@ -361,11 +425,27 @@
     }
   },
   {
+    "name": "LightsPunctualLamp",
+    "screenshot": "screenshot/screenshot.png",
+    "variants": {
+      "glTF": "LightsPunctualLamp.gltf",
+      "glTF-Binary": "LightsPunctualLamp.glb"
+    }
+  },
+  {
     "name": "MaterialsVariantsShoe",
     "screenshot": "screenshot/screenshot.jpg",
     "variants": {
       "glTF": "MaterialsVariantsShoe.gltf",
       "glTF-Binary": "MaterialsVariantsShoe.glb"
+    }
+  },
+  {
+    "name": "MeshPrimitiveModes",
+    "screenshot": "screenshot/screenshot.png",
+    "variants": {
+      "glTF": "MeshPrimitiveModes.gltf",
+      "glTF-Embedded": "MeshPrimitiveModes.gltf"
     }
   },
   {
@@ -420,6 +500,22 @@
     }
   },
   {
+    "name": "MultipleScenes",
+    "screenshot": "screenshot/screenshot.png",
+    "variants": {
+      "glTF": "MultipleScenes.gltf",
+      "glTF-Embedded": "MultipleScenes.gltf"
+    }
+  },
+  {
+    "name": "NegativeScaleTest",
+    "screenshot": "screenshot/screenshot.jpg",
+    "variants": {
+      "glTF": "NegativeScaleTest.gltf",
+      "glTF-Binary": "NegativeScaleTest.glb"
+    }
+  },
+  {
     "name": "NormalTangentMirrorTest",
     "screenshot": "screenshot/screenshot.png",
     "variants": {
@@ -444,6 +540,13 @@
       "glTF": "OrientationTest.gltf",
       "glTF-Binary": "OrientationTest.glb",
       "glTF-Embedded": "OrientationTest.gltf"
+    }
+  },
+  {
+    "name": "PrimitiveModeNormalsTest",
+    "screenshot": "screenshot/screenshot.png",
+    "variants": {
+      "glTF": "PrimitiveModeNormalsTest.gltf"
     }
   },
   {
@@ -504,6 +607,28 @@
     "screenshot": "screenshot/screenshot.jpg",
     "variants": {
       "glTF": "SheenCloth.gltf"
+    }
+  },
+  {
+    "name": "SheenDamask",
+    "screenshot": "screenshot/screenshot.jpg",
+    "variants": {
+      "glTF": "SheenDamask.gltf"
+    }
+  },
+  {
+    "name": "SheenHighHeel",
+    "screenshot": "screenshot/screenshot.jpg",
+    "variants": {
+      "glTF": "SheenHighHeel.gltf"
+    }
+  },
+  {
+    "name": "SimpleInstancing",
+    "screenshot": "screenshot/screenshot.png",
+    "variants": {
+      "glTF": "SimpleInstancing.gltf",
+      "glTF-Binary": "SimpleInstancing.glb"
     }
   },
   {
@@ -578,6 +703,14 @@
     }
   },
   {
+    "name": "SuzanneMorphSparse",
+    "screenshot": "screenshot/screenshot.gif",
+    "variants": {
+      "glTF": "SuzanneMorphSparse.gltf",
+      "glTF-Binary": "SuzanneMorphSparse.glb"
+    }
+  },
+  {
     "name": "TextureCoordinateTest",
     "screenshot": "screenshot/screenshot.png",
     "variants": {
@@ -640,6 +773,13 @@
     "variants": {
       "glTF": "TransmissionRoughnessTest.gltf",
       "glTF-Binary": "TransmissionRoughnessTest.glb"
+    }
+  },
+  {
+    "name": "TransmissionSuzanne",
+    "screenshot": "screenshot/screenshot.png",
+    "variants": {
+      "glTF": "TransmissionSuzanne.gltf"
     }
   },
   {
@@ -715,6 +855,14 @@
       "glTF": "WaterBottle.gltf",
       "glTF-Binary": "WaterBottle.glb",
       "glTF-Draco": "WaterBottle.gltf"
+    }
+  },
+  {
+    "name": "XmpMetadataRoundedCube",
+    "screenshot": "screenshot/screenshot.jpg",
+    "variants": {
+      "glTF": "xmp.gltf",
+      "glTF-Binary": "xmp.glb"
     }
   }
 ]

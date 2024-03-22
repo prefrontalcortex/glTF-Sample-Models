@@ -4,6 +4,14 @@
 
 # glTF Sample Models
 
+## Deprecating
+
+**This repo has been ARCHIVED. All new Issues and Pull Requests should be filed in the new repo - [glTF-Sample-Assets](https://github.com/KhronosGroup/glTF-Sample-Assets).**
+
+**All existing Issues have been addressed and closed. All existing PRs were either merged or closed. Closed PRs have an issue in the new repo. All questions, comments, or requests must be handled in the new repo.**
+
+## Original README
+
 [![glTF Validation](https://github.com/KhronosGroup/glTF-Sample-Models/workflows/glTF%20Validation/badge.svg?branch=master)](https://github.com/KhronosGroup/glTF-Sample-Models/actions)
 
 - [glTF 1.0](1.0)
@@ -33,7 +41,7 @@ For addition glTF models, see:
 * Cesium's [demo models](https://github.com/AnalyticalGraphicsInc/cesium/tree/master/Apps/SampleData/models) and [unit test models](https://github.com/AnalyticalGraphicsInc/cesium/tree/master/Specs/Data/Models).
 * Flightradar24's [GitHub repo](https://github.com/kalmykov/fr24-3d-models) of aircrafts.
 * [Kenney • Assets](https://kenney.nl/assets?q=3d) hundreds of themed low-poly assets (nature, space, castle, furniture, etc.) provided by Kenney under CC0 licenses, including [30+ pirate themed models](https://kenney.nl/assets/pirate-kit).
-* [Smithsonian open access 3D models](https://3d.si.edu/cc0?edan_q=*:*&edan_fq[]=online_media_type:%223D+Images%22)
+* [Smithsonian open access 3D models](https://3d.si.edu/explore)
 
 ## Contributing Sample Models
 
